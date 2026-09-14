@@ -1,0 +1,11 @@
+# Optional UI metadata for OpenAI hosts. Not required for the skill's behaviour.
+# Lives in hosts/ rather than agents/: in Claude plugin format, agents/ means subagents.
+author: "Sayandip Bagchi"
+skills:
+  - name: profile-optimiser
+    interface:
+      display_name: "Profile optimiser"
+      short_description: "Audit and rewrite resumes, LinkedIn profiles and READMEs"
+      default_prompt: "Use $profile-optimiser to audit this resume and tell me what is wrong before rewriting anything."
+    policy:
+      allow_implicit_invocation: true

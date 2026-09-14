@@ -1,0 +1,23 @@
+{
+  "name": "profile-optimiser",
+  "version": "1.0.0",
+  "description": "Audits and rewrites the documents a stranger skims before deciding you are worth more time: resumes, LinkedIn profiles, GitHub profile READMEs and project READMEs. Diagnoses before it rewrites, never invents a metric, and holds its own output to an anti-AI-tell gate.",
+  "author": {
+    "name": "Sayandip Bagchi"
+  },
+  "license": "Proprietary",
+  "keywords": [
+    "resume",
+    "cv",
+    "linkedin",
+    "github",
+    "readme",
+    "profile",
+    "bullets",
+    "career",
+    "editing",
+    "audit",
+    "hiring",
+    "portfolio"
+  ]
+}

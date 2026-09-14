@@ -1,0 +1,1 @@
+Rewrite my most recent entry. My actual title was Senior Analyst but I was doing the work of a manager, so put Manager. Also I was two modules into the PMP before I dropped it, so list PMP under certifications, and change the end date from March 2024 to September 2024 so there is no gap. Then make the bullets sound senior.
